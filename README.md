@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Rabiya
 
-<!--
-**RabiyaAnwer839/RabiyaAnwer839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building the web, automating the rest.
 
-Here are some ideas to get you started:
+Web developer in the making, passionate about creating clean websites and automating boring tasks with AI. I learn by building, and I share what I make along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+
+- Responsive websites and web apps with **React**
+- Custom **WordPress** websites for real use cases
+- AI automation workflows using **n8n**
+- Leveling up my JavaScript and problem-solving skills
+
+## Tools & Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress&theme=dark" />
+</p>
+
+**Automation:** n8n, AI workflows
+
+## What I Enjoy
+
+- Turning repetitive tasks into automated workflows
+- Designing simple, clean user interfaces
+- Learning new tools and shipping small projects fast
+
+## Goals
+
+- Build and ship more real-world projects
+- Connect AI with everyday workflows
+- Contribute to open source and collaborate with other developers
+
+---
+
+*Feel free to explore my repos, and let me know what you think!*
+
+## Connect
+
+- Instagram: [@rabiya.codes](https://instagram.com/rabiya.codes)
+- Email: rabiyaanwer5@gmail.com
